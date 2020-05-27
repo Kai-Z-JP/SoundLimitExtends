@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "soundlimitextends",
+    "name": "SoundLimitExtends",
+    "description": "SoundLimitExtends",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Kaiz_JP"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
